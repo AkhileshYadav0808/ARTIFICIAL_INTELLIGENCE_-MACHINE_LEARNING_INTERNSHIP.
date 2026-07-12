@@ -1,5 +1,4 @@
 project 0 = outliers_percentile.
-
 streamlit_link = https://outlierspercentile-hzexl8niteknp2zjae5hqp.streamlit.app/ .
 
 project 1 = case study of google play store .
@@ -24,6 +23,7 @@ streamlit_link = https://projectkmeanclustering-zgsymijz6nxqgmqmblbpit.streamlit
 
 project 8 = gender_classfication_using machine_learning .
 STREAMLIT_LINK:https://malefemaleimageclassification-dh9fasvc9wdchv7zhygqro.streamlit.app/ .
+
 project 9 = binary_image_classifier using _cnn.
 streamlit_link = https://binary-image-classifier-using-cnn-caj3fwarac2jqfgvvkmaer.streamlit.app/ .
 
