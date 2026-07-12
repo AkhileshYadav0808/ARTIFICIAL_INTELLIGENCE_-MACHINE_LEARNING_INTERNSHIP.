@@ -1,8 +1,0 @@
-langchain-core==0.3.86
-langchain-openai==0.3.28
-langchain-community==0.3.27
-unstructured==0.18.11
-langchain-chroma==0.2.5
-langchain-text-splitters==0.3.11
-pydantic==2.11.9
-openai
